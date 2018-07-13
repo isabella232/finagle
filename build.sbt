@@ -6,7 +6,7 @@ val releaseVersion = "18.6.0-SNAPSHOT"
 
 val libthriftVersion = "0.10.0"
 
-val netty4Version = "4.1.16.Final"
+val netty4Version = "4.1.17.Final"
 
 // zkVersion should be kept in sync with the 'util-zk' dependency version
 val zkVersion = "3.5.0-alpha"
